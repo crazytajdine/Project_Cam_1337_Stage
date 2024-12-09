@@ -23,21 +23,27 @@ Key Features:
 2. Install dependencies:
    
    *Backend (Python)*:
-   
+     ```{sh}
+
    cd back
    pip install -r requirments.txt
-   
+     ```
+
    To run the main file, use the following command:
-    
+```{sh}
+
    python CSP.py
+```
 
  **FrontEnd (ReactJs)**:
-   
+
+  ```{sh}
    cd front
    npm install
-  
+   ```
+
   To run the application:
-  
+  ```{sh}
   npm run dev
   ```
 
